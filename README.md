@@ -1,0 +1,1 @@
+This is my first project at Soft Grow Tech as an intern. I was tasked with building a web music player. For this project, I used HTML, CSS, and JavaScript. The web music player allows me to pause and play songs, skip to the next track, go back to the previous one, shuffle songs, put a song on repeat, and add songs to a playlist.
